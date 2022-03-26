@@ -13,4 +13,10 @@ study javascript
 [Q3 : 클로저](/questions/Q3.md)
 
 ---
+
+## **정보처리기사 강의 정리**
+
+[L1 : 요구사항 분석1](/lecture/eip/L1.md)
+
+---
 [emoji 리스트](https://itinerant.tistory.com/60)
